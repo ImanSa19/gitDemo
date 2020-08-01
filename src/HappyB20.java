@@ -8,10 +8,6 @@ public class HappyB20 {
 
         // a brand
 
-        // HelloWorld
-
-        // absc
-        System.out.println("");
     }
 
 
