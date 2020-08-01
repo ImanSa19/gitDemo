@@ -11,6 +11,7 @@ public class HappyB20 {
         // HelloWorld
 
         // absc
+        System.out.println("");
     }
 
 
