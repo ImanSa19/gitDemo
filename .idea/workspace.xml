@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cfb8549-f7db-4b4f-97f6-cc8140e774d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitDemo/HappyB20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitDemo/HappyB20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HappyB20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HappyB20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,10 +91,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="683" y="311" width="1410" height="660" key="DiffContextDialog" timestamp="1596296518446">
+    <state x="683" y="311" width="1410" height="660" key="DiffContextDialog" timestamp="1596297862862">
       <screen x="0" y="23" width="2560" height="1335" />
     </state>
-    <state x="683" y="311" width="1410" height="660" key="DiffContextDialog/-1920.154.1920.1057/0.23.2560.1335@0.23.2560.1335" timestamp="1596296518446" />
+    <state x="683" y="311" width="1410" height="660" key="DiffContextDialog/-1920.154.1920.1057/0.23.2560.1335@0.23.2560.1335" timestamp="1596297862862" />
     <state x="772" y="628" width="1410" height="700" key="DiffContextDialog/-1920.154.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1596231735350" />
     <state width="1235" height="304" key="GridCell.Tab.0.bottom" timestamp="1596297069096">
       <screen x="0" y="23" width="2560" height="1335" />
