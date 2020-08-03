@@ -43,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
-  <component name="RunManager" selected="Application.HappyAgain">
+  <component name="RunManager" selected="Application.BookARoom">
     <configuration name="BookARoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookARoom" />
       <module name="gitDemo" />
@@ -74,8 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HappyAgain" />
         <item itemvalue="Application.BookARoom" />
+        <item itemvalue="Application.HappyAgain" />
         <item itemvalue="Application.HappyB20" />
         <item itemvalue="Application.HelloB20" />
       </list>
